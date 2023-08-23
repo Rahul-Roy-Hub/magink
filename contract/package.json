@@ -1,7 +1,7 @@
 {
   "name": "contract",
   "version": "1.0.0",
-  "author": "	Mar.io",
+  "author": "	Rahul",
   "license": "MIT",
   "scripts": {
     "run-node": "swanky node start",
